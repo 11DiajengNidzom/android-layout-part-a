@@ -1,6 +1,6 @@
 # Android Layout Part B
 
-Hasil Screenshot Potrait </br>
+Hasil Screenshot </br>
 ![Screenshot](images/a.jpeg) </br>
 
 
